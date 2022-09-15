@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\GB\Итоги блока. Выбор специализации. IT-специалист\zadanije\bin\Debug\net6.0\zadanije.exe
+C:\Users\Asus\Desktop\GB\Итоги блока. Выбор специализации. IT-специалист\zadanije\bin\Debug\net6.0\zadanije.deps.json
+C:\Users\Asus\Desktop\GB\Итоги блока. Выбор специализации. IT-специалист\zadanije\bin\Debug\net6.0\zadanije.runtimeconfig.json
+C:\Users\Asus\Desktop\GB\Итоги блока. Выбор специализации. IT-специалист\zadanije\bin\Debug\net6.0\zadanije.dll
+C:\Users\Asus\Desktop\GB\Итоги блока. Выбор специализации. IT-специалист\zadanije\bin\Debug\net6.0\zadanije.pdb
+C:\Users\Asus\Desktop\GB\Итоги блока. Выбор специализации. IT-специалист\zadanije\obj\Debug\net6.0\zadanije.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\GB\Итоги блока. Выбор специализации. IT-специалист\zadanije\obj\Debug\net6.0\zadanije.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\GB\Итоги блока. Выбор специализации. IT-специалист\zadanije\obj\Debug\net6.0\zadanije.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\GB\Итоги блока. Выбор специализации. IT-специалист\zadanije\obj\Debug\net6.0\zadanije.AssemblyInfo.cs
+C:\Users\Asus\Desktop\GB\Итоги блока. Выбор специализации. IT-специалист\zadanije\obj\Debug\net6.0\zadanije.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GB\Итоги блока. Выбор специализации. IT-специалист\zadanije\obj\Debug\net6.0\zadanije.dll
+C:\Users\Asus\Desktop\GB\Итоги блока. Выбор специализации. IT-специалист\zadanije\obj\Debug\net6.0\refint\zadanije.dll
+C:\Users\Asus\Desktop\GB\Итоги блока. Выбор специализации. IT-специалист\zadanije\obj\Debug\net6.0\zadanije.pdb
+C:\Users\Asus\Desktop\GB\Итоги блока. Выбор специализации. IT-специалист\zadanije\obj\Debug\net6.0\zadanije.genruntimeconfig.cache
+C:\Users\Asus\Desktop\GB\Итоги блока. Выбор специализации. IT-специалист\zadanije\obj\Debug\net6.0\ref\zadanije.dll
