@@ -18,6 +18,11 @@ int Method(int count)
 
 int res = Method(array.Length);
 
+if (res < 1)
+{
+   Console.WriteLine("Нет искомых элементов ");
+}
+
 void FillArray(string[] elemetsless4)
 {
     int count = array.Length;
